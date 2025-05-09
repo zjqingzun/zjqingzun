@@ -14,7 +14,8 @@ __Method of action:__ IAST <br>
 1. C/C++
 2. Python
 3. Rust
-4. Shell
+4. JavaScript
+5. Shell
 
 
 ## Standards & Principles
