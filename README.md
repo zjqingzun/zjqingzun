@@ -16,6 +16,7 @@ __Method of action:__ IAST <br>
 3. Rust
 4. JavaScript
 5. Shell
+6. Assembly
 
 
 ## Standards & Principles
