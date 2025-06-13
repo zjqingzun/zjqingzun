@@ -3,11 +3,12 @@
 
 
 ## Introduction
-__Scope of impact:__ Information Security <br> 
-__Conceptual role:__ Pentest, Code Audit <br>
-__Type of group:__ White Team, Red Team (may include Purple Team) <br>
-__Style of action:__ Full Disclosure (may include Responsible Disclosure) <br>
-__Method of action:__ IAST <br>
+__Specialization:__ Penetration Testing & Code Auditing <br>
+__Team Structure:__ White Team/Red Team operations <br>
+__Disclosure Approach:__ Full transparency methodology <br>
+__Testing Method:__ IAST (Interactive Application Security Testing) <br>
+__Core Focus:__ Real-time vulnerability assessment combining static and dynamic analysis <br>
+__Objective:__ Comprehensive security evaluation with immediate feedback loops <br>
 
 
 ## Favorite programming language
