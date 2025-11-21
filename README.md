@@ -23,11 +23,11 @@ __Group:__ Red Team <br>
 ![Python](https://img.shields.io/badge/Python-Differential_Privacy-blue?style=flat&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Train_Model-blue?style=flat&logo=python&logoColor=white)
 
+![Rust](https://img.shields.io/badge/Rust-NAC/SIEM-purple?style=flat&logo=rust&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Solidity-purple?style=flat&logo=rust&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Smart_Contract-purple?style=flat&logo=rust&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DEX-purple?style=flat&logo=rust&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DeFi-purple?style=flat&logo=rust&logoColor=white)
-
 
 
 ## Standards & Principles
